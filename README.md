@@ -1,7 +1,5 @@
 # CPU Scheduling Algorithms - Python Implementation
 
-A comprehensive implementation of CPU scheduling algorithms in Python for educational purposes.
-
 ## Overview
 
 This project implements five fundamental CPU scheduling algorithms with clear code, visual timeline representations, and detailed performance statistics.
@@ -13,15 +11,6 @@ This project implements five fundamental CPU scheduling algorithms with clear co
 3. **Priority Scheduling** - Non-preemptive, priority-based
 4. **Round Robin (RR)** - Preemptive, time quantum-based
 5. **Multi-level Queue Scheduling** - Non-preemptive, multiple priority queues
-
-## Quick Start
-
-```bash
-git clone https://github.com/Gurucharan-V/CPU-_Scheduler_Sim_Py.git
-cd cpuSchedulingPython
-pip install -r requirements.txt
-python main.py
-```
 
 ## Project Structure
 
@@ -58,15 +47,6 @@ For detailed information, see the comprehensive documentation in the `Reports/` 
 - **[Code Analysis](Reports/APPENDIX_A_CODE_ANALYSIS.md)** - In-depth code examination
 - **[Algorithm Comparison](Reports/APPENDIX_B_ALGORITHM_COMPARISON.md)** - Performance and characteristics analysis
 - **[Troubleshooting Guide](Reports/APPENDIX_C_TROUBLESHOOTING.md)** - Common issues and solutions
-
-## Requirements
-
-- Python 3.7 or higher
-- pip (Python package installer)
-
-## License
-
-This project is for educational purposes.
 
 ## Contributing
 
